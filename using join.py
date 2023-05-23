@@ -1,4 +1,4 @@
-l=["A","B","B","C","D","E","F","F","G","H","I","L","J","K"]
+l="ABBCDEFFGHILJK"
 x=set(l)
 print(x)
 a=sorted(x)
